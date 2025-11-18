@@ -65,19 +65,19 @@
     "url": "https://tetr.io/",
     "icon": "https://icons.duckduckgo.com/ip3/tetr.io.ico",
     "slug": "tetrio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 235,
-    "timeWeek": 233,
-    "timeMonth": 198,
-    "timeYear": 230,
+    "timeDay": 196,
+    "timeWeek": 220,
+    "timeMonth": 195,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
