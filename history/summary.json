@@ -65,18 +65,20 @@
     "url": "https://tetr.io/",
     "icon": "https://icons.duckduckgo.com/ip3/tetr.io.ico",
     "slug": "tetrio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 196,
+    "timeDay": 235,
+    "timeWeek": 233,
+    "timeMonth": 198,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Hacker News",
